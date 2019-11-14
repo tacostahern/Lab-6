@@ -1,4 +1,4 @@
-#main-navbar ul{
+#navbar-container ul{
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -6,14 +6,14 @@
   background-color: blue;
 }
 
-#main-navbar ul li {
+#navbar-container ul li {
   float: left;
   position: relative;
   left: 50%;
   right: 50%;
 }
 
-#main-navbar ul li a {
+#navbar-container ul li a {
   display: block;
   text-decoration: none;
   color: #fff;
